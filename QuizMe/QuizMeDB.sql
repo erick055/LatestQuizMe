@@ -1,0 +1,5 @@
+﻿CREATE TABLE Users (
+    UserId INT PRIMARY KEY IDENTITY(1,1),
+    Username NVARCHAR(100) UNIQUE NOT NULL,
+    PasswordHash NVARCHAR(MAX) NOT NULL
+);

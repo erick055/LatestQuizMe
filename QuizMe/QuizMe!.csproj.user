@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddQuestionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateFlashcard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateQuizForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flashcards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GlossaryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PdfViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuizTakerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quizzes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Schedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudySets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UploadStudySetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlDays.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
